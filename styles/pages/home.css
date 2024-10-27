@@ -1,0 +1,26 @@
+/* Home Page Styles */
+#hero {
+    background: url('/images/heros-bg1.png') no-repeat center center/cover;
+    color: hsl(0, 0%, 1%);
+    text-align: center;
+    padding: 100px 20px;
+}
+
+#hero h1 {
+    font-size: 2.5rem;
+}
+
+#hero p {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+#hero .btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #f4f4f4;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+}
